@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49153087870",
+    "project_id": "noteapp-fd602",
+    "storage_bucket": "noteapp-fd602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49153087870:android:5193325e97e661eadcbb2f",
+        "android_client_info": {
+          "package_name": "com.example.cloudassignment1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49153087870-vv23rj37jd03ofqibip67q07c3jintqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgEsVorPZAJ_rxdBsBmW4moOVB14BHGIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49153087870-vv23rj37jd03ofqibip67q07c3jintqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
